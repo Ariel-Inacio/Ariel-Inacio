@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h1 align=center>
   <a href="https://git.io/typing-svg">
@@ -31,6 +30,8 @@
 </picture>
 
 </div>
+
+![snake gif](https://github.com/Ariel-Inacio/Ariel-Inacio/blob/output/github-contribution-grid-snake-dark.svg)
 
 <div align="center">
 
