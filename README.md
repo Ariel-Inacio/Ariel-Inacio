@@ -11,8 +11,6 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ariel-Inacio&show_icons=true&count_private=true&theme=dark&hide_border=true" alt="Ariel-Inacio github stats" /> 
   <img width="37%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ariel-Inacio&layout=compact&langs_count=5&theme=dark&hide_border=true" />
 
-  <img height ="195px" width= "49%" src="https://github-readme-streak-stats.herokuapp.com?user=Ariel-Inacio&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D" />
-
   <h3>Programing Languages</h3>
 
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
