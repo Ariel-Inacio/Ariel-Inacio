@@ -1,21 +1,19 @@
 
 <h1 align=center>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=3200&pause=800&color=fff2cc&background=03031400&center=true&size=24&vCenter=true&width=870&lines=Hi+there👋!!!;I'm+Ariel;Computer+Engineer+Student;" alt="Presentation text" />
-  </a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7E027&center=true&width=435&lines=Hi+there%F0%9F%91%8B!!!;I'm+Ariel;Computer+Engineer+Student" alt="Typing SVG" /></a>
 </h1>
 
 
 <div align="center">  
 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ariel-Inacio&show_icons=true&count_private=true&theme=dark&hide_border=true" alt="Ariel-Inacio github stats" /> 
-  <img width="37%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ariel-Inacio&layout=compact&langs_count=5&theme=dark&hide_border=true" />
-
   <h3>Programing Languages</h3>
 
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" />
+  
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
 
 </div>
